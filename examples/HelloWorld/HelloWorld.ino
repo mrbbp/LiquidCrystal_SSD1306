@@ -36,7 +36,7 @@
  */
 
 // include the library code:
-#include <TinyWireM.h>
+//#include <TinyWireM.h>
 #include <LiquidCrystal_SSD1306.h>
 
 // initialize the library with the numbers of the interface pins
